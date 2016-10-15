@@ -1,7 +1,7 @@
 {
-  "name": "react-helper-decorators",
-  "version": "0.1.2",
-  "description": "A new way of declaring React lifecycle hooks.",
+  "name": "react-lifecycle-es7-decorators",
+  "version": "0.1.1",
+  "description": "Attach React lifecycle hooks with ES7/TypeScript decorators.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "keywords": [
     "react",
     "lifecycle",
+    "hooks",
     "decorators",
     "es7",
     "typescript"

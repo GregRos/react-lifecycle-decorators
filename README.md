@@ -1,9 +1,9 @@
-# React helper decorators
+# React Lifecycle Decorators
 This library introduces a set of ES7/TypeScript decorators that offer you a new way to set up React lifecycle hooks.
 
 Here is how it looks like:
 
-	import {Life} from 'react-helper-decorators';
+	import {Life} from 'react-lifecycle-es7-decorators';
 	class MyComponent extends React.Component {
 		@Life.didUpdate
 		@Life.didMount
