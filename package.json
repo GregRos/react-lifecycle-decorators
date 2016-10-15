@@ -1,11 +1,12 @@
 {
   "name": "react-helper-decorators",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A new way of declaring React lifecycle hooks.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository" : "https://github.com/GregRos/react-lifecycle-decorators",
   "keywords": [
     "react",
     "lifecycle",

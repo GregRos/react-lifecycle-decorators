@@ -1,3 +1,4 @@
+# React helper decorators
 This library introduces a set of ES7/TypeScript decorators that offer you a new way to set up React lifecycle hooks.
 
 Here is how it looks like:
